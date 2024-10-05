@@ -8,7 +8,6 @@ import praktikum.Burger;
 import praktikum.Ingredient;
 import praktikum.IngredientType;
 
-import java.sql.SQLOutput;
 
 import static org.junit.Assert.*;
 import static org.mockito.Mockito.when;
